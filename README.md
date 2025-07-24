@@ -42,8 +42,8 @@
    <br>
    <br>
 
-   <table align="center" border="3">
-   <caption align="center"> Recipe Details</caption>
+   <table border="3">
+   <caption> Recipe Details</caption>
    <tr>
     <th>Ingredients</th>
      <th>Quantity</th>
